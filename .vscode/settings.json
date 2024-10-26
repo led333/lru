@@ -1,0 +1,6 @@
+{
+    "clang-tidy.executable": "clang-tidy",
+    "clang-tidy.compilerArgs": [
+        "-std=c++20"
+    ]
+}
